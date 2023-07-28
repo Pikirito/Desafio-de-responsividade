@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+.boxd {
+    width: 1000px;
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+.boxd__card {
+    background-color: aqua;
+    width: 250px;
+    padding: 40px;
+    max-width: 100%;
+
+}
